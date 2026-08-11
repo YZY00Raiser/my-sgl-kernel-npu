@@ -1,0 +1,39 @@
+.github/workflows/pr-test-deepep-npu.yml
+  s_27868819e6b3f0::t_880c03636b3af0 54-430,837-838
+  s_27868819e6b3f0::t_7f1ecf43d56180 839
+  s_27868819e6b3f0::t_27acdd8c6b69d8 432,441
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "349d9e1b3cbb5d24c96153fae7b8263ddcca3e61",
+  "prompts": {},
+  "humans": {
+    "h_65a461852483cc": {
+      "author": "YZY00Raiser <2452658175@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_27868819e6b3f0": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a7adc52f8fdd7eee206f339",
+        "model": "DeepSeek-V4-Flash-Official"
+      },
+      "human_author": "YZY00Raiser <2452658175@qq.com>",
+      "custom_attributes": {
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "operation_id": "6a7b2b3ef8fdd7eee206f4b8",
+        "tool_use_id": "6a7b2b3ef8fdd7eee206f4b8",
+        "external_session_id": "6a7adc52f8fdd7eee206f339",
+        "tool_type": "builtin",
+        "dedupe_key": "6a7adc52f8fdd7eee206f339:6a7b2b3ef8fdd7eee206f4b8:afterEdit:e2a11230",
+        "session_id": "6a7adc52f8fdd7eee206f339",
+        "edit_kind": "file_edit",
+        "source_scene": "agent",
+        "client_type": "ide",
+        "runtime_client": "trae-tob-git-ai"
+      }
+    }
+  }
+}
