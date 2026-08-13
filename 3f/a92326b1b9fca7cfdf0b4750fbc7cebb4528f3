@@ -1,0 +1,61 @@
+.github/workflows/pr-test-deepep-npu.yml
+  s_0a9d88b8aa1659::t_8ed9ac9d93d1a7 287-487,489-510,517-520,527-528,530,533-534,536,540-543,547-550,554-622,624-627,631-636,638,640,642-677,679-689,691-697,699,701-704,707-710,713-714,716,719-722,725-728,733-734,736,740-743,747-750,753-756,764
+  s_0a9d88b8aa1659::t_33ed1d550290db 511-516
+  s_0a9d88b8aa1659::t_c0ac388f061136 521-526
+  s_0a9d88b8aa1659::t_3dabebd3039bd0 529
+  s_0a9d88b8aa1659::t_d2b652f744f30d 531-532
+  s_0a9d88b8aa1659::t_fd62faa7f49e6a 535
+  s_0a9d88b8aa1659::t_93e28acf181a50 537-539
+  s_0a9d88b8aa1659::t_89ea269d240a90 544-546
+  s_0a9d88b8aa1659::t_89e998ef6a3d07 551-553
+  s_0a9d88b8aa1659::t_ee1cbd66747086 623
+  s_0a9d88b8aa1659::t_22fe5b0a5eaaa9 628-630
+  s_0a9d88b8aa1659::t_2e6808f2252653 637
+  s_0a9d88b8aa1659::t_45e5020d18c811 639
+  s_0a9d88b8aa1659::t_462566a74b3a2d 641
+  s_0a9d88b8aa1659::t_f79a68e28621d8 678
+  s_0a9d88b8aa1659::t_880bbc47a26f80 690
+  s_0a9d88b8aa1659::t_aec805ebc799c2 698
+  s_0a9d88b8aa1659::t_33e9cd8da23984 700
+  s_0a9d88b8aa1659::t_39131c5f775b58 705-706
+  s_0a9d88b8aa1659::t_0ec023ed747d8b 711-712
+  s_0a9d88b8aa1659::t_823b8302d3b52e 715
+  s_0a9d88b8aa1659::t_44ad588af4038f 717-718
+  s_0a9d88b8aa1659::t_46d43ab7d4f484 723-724
+  s_0a9d88b8aa1659::t_954736d86f21c1 729-732
+  s_0a9d88b8aa1659::t_2f61f2a53daa8b 735
+  s_0a9d88b8aa1659::t_1f919ffecc4e64 737-739
+  s_0a9d88b8aa1659::t_08063858923993 744-746
+  s_0a9d88b8aa1659::t_1819f087d49f81 751-752
+  s_0a9d88b8aa1659::t_b27ac8d519448b 757-758
+  s_0a9d88b8aa1659::t_eb64c9c0c9bcfe 765
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "3fa92326b1b9fca7cfdf0b4750fbc7cebb4528f3",
+  "prompts": {},
+  "sessions": {
+    "s_0a9d88b8aa1659": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a7c1b9279bff2204961a2fc",
+        "model": "DeepSeek-V4-Flash-Official"
+      },
+      "human_author": "YZY00Raiser <2452658175@qq.com>",
+      "custom_attributes": {
+        "tool_type": "builtin",
+        "source_scene": "agent",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "dedupe_key": "6a7c1b9279bff2204961a2fc:6a7c1bcb79bff2204961a31e:afterEdit:e2a11230",
+        "external_session_id": "6a7c1b9279bff2204961a2fc",
+        "runtime_client": "trae-tob-git-ai",
+        "session_id": "6a7c1b9279bff2204961a2fc",
+        "client_type": "ide",
+        "edit_kind": "file_edit",
+        "operation_id": "6a7c1bcb79bff2204961a31e",
+        "tool_use_id": "6a7c1bcb79bff2204961a31e"
+      }
+    }
+  }
+}
