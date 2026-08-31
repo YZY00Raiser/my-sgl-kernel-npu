@@ -1,0 +1,32 @@
+.github/workflows/pr-test-deepep-npu.yml
+  s_bad4e3a0042ade::t_5b60b0f46e9262 773-784
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "48a347813618900b5c6e638520d51c4855aa3ba4",
+  "prompts": {},
+  "sessions": {
+    "s_bad4e3a0042ade": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a953fa882e6e1facd047ea2",
+        "model": "DeepSeek-V4-Pro-Official__max"
+      },
+      "human_author": "YZY00Raiser <2452658175@qq.com>",
+      "custom_attributes": {
+        "client_type": "ide",
+        "runtime_client": "trae-tob-git-ai",
+        "external_session_id": "6a953fa882e6e1facd047ea2",
+        "dedupe_key": "6a953fa882e6e1facd047ea2:6a95412582e6e1facd047ed3:afterEdit:e2a11230",
+        "edit_kind": "file_edit",
+        "source_scene": "unknown",
+        "tool_type": "agent",
+        "operation_id": "6a95412582e6e1facd047ed3",
+        "tool_use_id": "6a95412582e6e1facd047ed3",
+        "session_id": "6a953fa882e6e1facd047ea2",
+        "tool_id": "Edit"
+      }
+    }
+  }
+}
