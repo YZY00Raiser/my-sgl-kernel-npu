@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "ebd76a420cd7844163b0c1beaf19a0bdc74f8ba7",
+  "prompts": {},
+  "humans": {
+    "h_65a461852483cc": {
+      "author": "YZY00Raiser <2452658175@qq.com>"
+    }
+  }
+}
