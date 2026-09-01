@@ -1,0 +1,48 @@
+.github/workflows/pr-test-deepep-npu.yml
+  s_fa1de8970c5bd6::t_5259f890d3b364 840
+  s_fa1de8970c5bd6::t_702e2d71cb96ed 824
+  s_fa1de8970c5bd6::t_2b205515c0286e 861
+  s_fa1de8970c5bd6::t_754db8e2d25b77 868
+  s_fa1de8970c5bd6::t_de713b291b6864 876
+  s_fa1de8970c5bd6::t_ce4a5e5a352e12 891
+  s_fa1de8970c5bd6::t_5c789d8310545a 897
+  s_fa1de8970c5bd6::t_f4c997f718f26a 912
+  s_fa1de8970c5bd6::t_f29969b96d5d12 927
+  s_fa1de8970c5bd6::t_f42b02242045a3 883
+  s_fa1de8970c5bd6::t_df0783f00cdf12 832
+  s_fa1de8970c5bd6::t_f703bb75a9879a 850
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "9185f5069f537007e2690360baeaf329c3216014",
+  "prompts": {},
+  "humans": {
+    "h_65a461852483cc": {
+      "author": "YZY00Raiser <2452658175@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_fa1de8970c5bd6": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9642f082e6e1facd047f9d",
+        "model": "DeepSeek-V4-Pro-Official__max"
+      },
+      "human_author": "YZY00Raiser <2452658175@qq.com>",
+      "custom_attributes": {
+        "runtime_client": "trae-tob-git-ai",
+        "operation_id": "6a9643e982e6e1facd047fe6",
+        "edit_kind": "file_edit",
+        "session_id": "6a9642f082e6e1facd047f9d",
+        "dedupe_key": "6a9642f082e6e1facd047f9d:6a9643e982e6e1facd047fe6:afterEdit:e2a11230",
+        "tool_id": "Edit",
+        "tool_use_id": "6a9643e982e6e1facd047fe6",
+        "source_scene": "unknown",
+        "tool_type": "agent",
+        "external_session_id": "6a9642f082e6e1facd047f9d",
+        "client_type": "ide"
+      }
+    }
+  }
+}
