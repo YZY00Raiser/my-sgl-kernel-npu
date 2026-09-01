@@ -1,0 +1,34 @@
+.github/workflows/pr-test-deepep-npu.yml
+  s_6084c8b45e0d5a::t_0aa5f7c14c0dff 829-899
+  s_6084c8b45e0d5a::t_1cc27066a7da84 826-828
+  s_6084c8b45e0d5a::t_965b04fafaeb4e 900-902
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "e19a43e5c43cdc5748a4e5db0c1e8c941864e665",
+  "prompts": {},
+  "sessions": {
+    "s_6084c8b45e0d5a": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a96262682e6e1facd047ef3",
+        "model": "DeepSeek-V4-Pro-Official__max"
+      },
+      "human_author": "YZY00Raiser <2452658175@qq.com>",
+      "custom_attributes": {
+        "operation_id": "6a9629ca82e6e1facd047f3d",
+        "tool_type": "agent",
+        "edit_kind": "file_edit",
+        "client_type": "ide",
+        "session_id": "6a96262682e6e1facd047ef3",
+        "external_session_id": "6a96262682e6e1facd047ef3",
+        "tool_id": "Edit",
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "unknown",
+        "tool_use_id": "6a9629ca82e6e1facd047f3d",
+        "dedupe_key": "6a96262682e6e1facd047ef3:6a9629ca82e6e1facd047f3d:afterEdit:e2a11230"
+      }
+    }
+  }
+}
