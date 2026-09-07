@@ -887,7 +887,7 @@ jobs:
         timeout-minutes: 10
         run: |
           python3 $GITHUB_WORKSPACE/tests/python/deepep/test_fused_deep_moe_a5.py \
-          --use-mxfp8 \
+          --quant fp8_e4m3 \
           --num-processes 4 \
           --hidden 7168 \
           --moe-intermediate-size 3072 \
@@ -901,7 +901,7 @@ jobs:
         timeout-minutes: 10
         run: |
           python3 $GITHUB_WORKSPACE/tests/python/deepep/test_fused_deep_moe_a5.py \
-          --use-mxfp8 \
+          --quant fp8_e4m3 \
           --num-processes 4 \
           --hidden 7168 \
           --moe-intermediate-size 3072 \
@@ -915,7 +915,7 @@ jobs:
         timeout-minutes: 10
         run: |
           python3 $GITHUB_WORKSPACE/tests/python/deepep/test_fused_deep_moe_a5.py \
-          --use-mxfp8 \
+          --quant fp8_e4m3 \
           --num-processes 4 \
           --hidden 7168 \
           --moe-intermediate-size 3072 \
